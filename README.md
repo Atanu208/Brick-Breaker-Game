@@ -37,12 +37,6 @@ cd Brick-Breaker-Game
   javac BrickBreakerGame.java
   java BrickBreakerGame
   ```
-* If using Python:
-
-  ```bash
-  python brick_breaker.py
-  ```
-
 ### Contributing
 
 Feel free to open issues or submit pull requests to improve levels, add power-ups, or enhance game physics.
